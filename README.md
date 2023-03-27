@@ -13,8 +13,8 @@ Berikut tampilan web index.\
 Berikut tampilan Tambah Data\
 ![](ss/ss2.png)
 
-Berikut tampilan Ubah Data
+Berikut tampilan Ubah Data\
 ![](ss/ss3.png)
 
-Berikut tampilan saat mengapus data, akan mucul pop up notifikasi
+Berikut tampilan saat mengapus data, akan mucul pop up notifikasi\
 ![](ss/ss4.png)
