@@ -19,4 +19,4 @@ Berikut tampilan Ubah Data\
 Berikut tampilan saat mengapus data, akan mucul pop up notifikasi\
 ![](ss/ss4.png)
 
-Terima Kasih\
+Terima Kasih
